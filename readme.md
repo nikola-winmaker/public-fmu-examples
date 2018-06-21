@@ -1,5 +1,7 @@
 # Public FMU Exmaples
 
+Moved to https://github.com/INTO-CPS-Association/fmu-examples
+
 This respository is backed by a [build server](https://build.overture.au.dk/jenkins/job/into-cps-public-fmu-examples/) which output the compiled FMUs to: http://overture.au.dk/into-cps/examples/public-fmu-examples/latest/
 
 Each FMU is a folder containing:
